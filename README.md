@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joshua-Robison
 - 👀 I’m an engineer that likes to code
-- 🌱 I’m currently working on artificial intelligence and data science projects
-- 💞️ I'm interested in collaborating on anything interesting!
+- 🌱 I’m currently working on all kinds of projects
+- 💞️ I'm interested in collaborating on anything interesting
 - 📫 I can be contacted via email: joshua-robison@outlook.com
 
 <!---
